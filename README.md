@@ -1,3 +1,3 @@
 # React Shopping Cart
 
-# Step folloging
+# Step 1: Create React App
